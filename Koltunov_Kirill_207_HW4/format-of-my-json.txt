@@ -1,0 +1,8 @@
+1. Примитив или соответствующий wrapper-класс // ничего
+2. String // "value"
+3. @Exported класс — класс, сохраняемый и восстанавливаемый Mapper'ом // (field=value;field=value)
+4. List<T> // [value;value]
+5. Set<T> // {value;value}
+6. LocalDate // "value"
+7. LocalTime // "value"
+8. LocalDateTime // "value"
